@@ -5,5 +5,7 @@ If you checked out my code from the previous example here is a snippet of what t
 ![Example](https://github.com/keysor/Creating_Github_Hosted_Website/blob/main/web_examp.png)
 
 [Or look at it yourself!](https://keysor.github.io/Wahlburgers-Beer-Menu/)
+
 ---
+
 [Previous: Step 3 - Publishing with GitHub Pages](Step_Three.md) | [Back to start](README.md)
