@@ -15,6 +15,5 @@ This tutorial is designed for:
 ## Prerequisites
 Before you begin, ensure you have:
 - A GitHub account. [Sign up here](https://github.com/join) if you don’t have one.
-- Git installed on your local machine (optional but recommended). [Download Git](https://git-scm.com/downloads)
-- Basic knowledge of Git and Markdown. (optional but helpful).
+- Basic knowledge of Git and Markdown (optional but helpful).
 
