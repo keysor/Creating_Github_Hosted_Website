@@ -6,5 +6,7 @@
 
 Figure 1:
 ![Git_Link](https://github.com/keysor/Creating_Github_Hosted_Website/blob/main/git_link.png)
+
+
 Figure 2:
 ![Git_Clone](https://github.com/keysor/Creating_Github_Hosted_Website/blob/main/git_cmd.png)
