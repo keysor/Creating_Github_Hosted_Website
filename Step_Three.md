@@ -8,4 +8,6 @@
 
 4. Save the changes. Your site will now be live at 'http://<username>.github.io/<repository_name>'.
 
+---
+
 [Previous: Step 2 - Creating Your Website](Step_Two.md) | [Next: Conclusion](Conclusion.md)
