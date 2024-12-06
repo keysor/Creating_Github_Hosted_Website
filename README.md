@@ -21,4 +21,7 @@ Before you begin, ensure you have:
 1. [Step 1: Setting Up Your Repository](Step_One.md)
 2. [Step 2: Creating Your Website](Step_Two.md)
 3. [Step 3: Publishing with GitHub Pages](Step_Three.md)
+4. [Conclusion](Conclusion.md)
+
+[Next: Step 1 - Setting Up Your Repository](Step_One.md)
 
