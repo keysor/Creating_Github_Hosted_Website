@@ -1,6 +1,7 @@
 # Creating A Github Hosted Website
 ## Ben Dargue
 
+[Next Page](Step_One.md)
 ## Summary
 This tutorial will provide you a step-by-step guide into creating and hosting a website via GitHub Pages. This tutorial will cover: Setting up a repository, adding and formatting content using Markdown, and publishing the site. By the end of the tutorial you should be able to create a fully functional website hosted on GitHub!
 
@@ -16,4 +17,9 @@ This tutorial is designed for:
 Before you begin, ensure you have:
 - A GitHub account. [Sign up here](https://github.com/join) if you don’t have one.
 - Basic knowledge of Git and Markdown (optional but helpful).
+
+## Table of Contents
+1. [Step 1: Setting Up Your Repository](Step_One.md)
+2. [Step 2: Creating Your Website](Step_Two.md)
+3. [Step 3: Publishing with GitHub Pages](Step_Three.md)
 
