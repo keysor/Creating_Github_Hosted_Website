@@ -9,5 +9,7 @@ Figure 1: ![Git_Link](https://github.com/keysor/Creating_Github_Hosted_Website/b
 ---
 Figure 2:
 ![Git_Clone](https://github.com/keysor/Creating_Github_Hosted_Website/blob/main/git_cmd.png)
+
 ---
+
 [Next: Step 2 - Creating Your Website](Step_Two.md)
