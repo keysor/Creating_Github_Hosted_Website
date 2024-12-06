@@ -2,7 +2,8 @@
 1. Add HTML, CSS, or Markdown files to structure your site.
 [Example HTML file with CSS from one of my personal projects](https://github.com/keysor/Wahlburgers-Beer-Menu/blob/main/index.html)
 3. Use Markdown for easy formatting:
-``` Example of Markdown:
+```
+Example of Markdown:
 # Welcome to my website!
 This is my first GitHub Pages website.
 ```
