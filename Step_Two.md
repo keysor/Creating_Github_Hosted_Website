@@ -9,4 +9,4 @@ This is my first GitHub Pages website.
 ```
 3. Preview your changes locally if needed.
 
-[Previous: Step 1 - Setting Up Your Repository](Step_One.md) | [Next: Step 3 - Publishing with GitHub Pages](Step_Two.md)
+[Previous: Step 1 - Setting Up Your Repository](Step_One.md) | [Next: Step 3 - Publishing with GitHub Pages](Step_Three.md)
